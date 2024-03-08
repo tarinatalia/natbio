@@ -1,11 +1,11 @@
 {
   "name": "bio",
   "description": "Meta package for bio parser",
-  "version": "0.0.5",
-  "homepage": "http://github.com/biojs/bio",
+  "version": "3.3.5",
+  "homepage": "https://github.com/tarinatalia/natbio",
   "repository": {
     "type": "git",
-    "url": "git://github.com/biojs/bio"
+    "url": "git://github.com/tarinatalia/natbio"
   },
   "author": {
     "name": "BioJS",
